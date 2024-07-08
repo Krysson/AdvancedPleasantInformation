@@ -41,4 +41,4 @@
 
 ###### LOG
 
-- 07/08/2024 - 09:12 - finished lesson 10 "CSS Grid"
+- 07/08/2024 - 09:48 - finished lesson 11 "SVG Icons"
