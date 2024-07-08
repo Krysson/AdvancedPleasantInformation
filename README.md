@@ -41,4 +41,4 @@
 
 ###### LOG
 
-- 07/08/2024 - 10:40 - finished lesson 13 "Background Spashes of Color"
+- 07/08/2024 - 11:06 - Post Lesson 15 "Starting the Pet Area"
