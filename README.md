@@ -42,6 +42,7 @@
 ###### LOG
 
 - 07/08/2024 - 14:03 - Post Lesson 20 "Tiny CSS Changes"
+- making sure all is well after codespaces trial
 
 ---
 
