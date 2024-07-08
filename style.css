@@ -18,15 +18,15 @@ body {
 
 .top-section {
   color: white;
-  padding-top: 139px;
-  padding-bottom: 139px;
+  padding-top: 80px;
+  padding-bottom: 80px;
   max-width: 1066px;
   margin: 0 auto;
   position: relative;
 }
 
 .top-section h1 {
-  font-size: 6.25rem;
+  font-size: 4rem;
   margin: 0;
   line-height: 97.3%;
   max-width: 525px;
@@ -39,7 +39,22 @@ body {
 }
 
 .intro-buttons {
-  margin-bottom: 129px;
+  margin-bottom: 70px;
+}
+
+@media screen and (min-width: 600px) {
+  .top-section h1 {
+    font-size: 6.25rem;
+  }
+
+  .top-section {
+    padding-top: 139px;
+    padding-bottom: 139px;
+  }
+
+  .intro-buttons {
+    margin-bottom: 129px;
+  }
 }
 
 .our-btn {
@@ -79,10 +94,23 @@ body {
 }
 
 /* this is the div that holds all of the 4 features */
+
 .intro-features {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
   column-gap: 16px;
+  row-gap: 16px;
+}
+
+@media screen and (min-width: 580px) {
+  .intro-features {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .intro-features {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 }
 
 .circle {

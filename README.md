@@ -41,7 +41,7 @@
 
 ###### LOG
 
-- 07/08/2024 - 14:03 - Post Lesson 17 "Finishing the Pet Card"
+- 07/08/2024 - 14:03 - Post Lesson 18 "Mobile/Responsive Design"
 
 ---
 
