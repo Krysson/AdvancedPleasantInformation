@@ -41,4 +41,4 @@
 
 ###### LOG
 
-- 07/08/2024 - 09:48 - finished lesson 11 "SVG Icons"
+- 07/08/2024 - 10:40 - finished lesson 13 "Background Spashes of Color"
