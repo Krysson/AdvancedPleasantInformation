@@ -29,7 +29,7 @@ body {
   line-height: 97.3%;
 }
 
-.top-section p {
+.intro-text {
   font-size: 1.25rem;
   line-height: 169.3%;
   margin: 1rem 0;
@@ -57,4 +57,20 @@ body {
 
 .utility-mr {
   margin-right: 10px;
+}
+/* this is each individual feature box */
+.intro-feature {
+  padding: 33px 25px;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+}
+
+.intro-feature p {
+  margin: 0;
+  font-size: 1.0625rem;
+}
+/* this is the div that holds all of the 4 features */
+.intro-features {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 16px;
 }
