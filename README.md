@@ -41,7 +41,7 @@
 
 ###### LOG
 
-- 07/09/2024 - 10:00 - POST Lesson 33 "Fetching Data"
+- 07/09/2024 - 18:12 - POST Lesson 35 "Emotional Challenge"
   - push to github pages - no css was loading - changed <link rel="stylesheet" href="/styles.css" /> to delete the "/" - re-pushed to github @ 10:12
 - making sure all is well after codespaces trial
 
