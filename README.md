@@ -41,7 +41,7 @@
 
 ###### LOG
 
-- 07/09/2024 - 10:00 - Post Lesson 24 "Github"
+- 07/09/2024 - 10:00 - MID Lesson 27 "Updating Github"
   - push to github pages - no css was loading - changed <link rel="stylesheet" href="/styles.css" /> to "style" in Index.html. It was pointing to wrong file. - repushed to github @ 10:12
 - making sure all is well after codespaces trial
 
