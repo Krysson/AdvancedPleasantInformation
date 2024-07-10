@@ -41,7 +41,7 @@
 
 ###### LOG
 
-- 07/10/2024 - 13:41 - POST Lesson 38 "Pet Description & Age" - almost finished with pet cards.
+- 07/10/2024 - 13:41 - POST Lesson 39 "Pet Fallback Images" - Added fallback images for when pets dont have one.
   <br>
 
 ###### Older Logs
