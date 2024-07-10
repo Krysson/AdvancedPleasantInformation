@@ -42,6 +42,7 @@
 ###### LOG
 
 - 07/10/2024 - 15:04 - **POST Lesson 41 "Actually filtering the Pet Cards"** - filtering on pet cards on home page finished
+- Merged Branch pets-area to main
   <br>
 
 ###### Older Logs
