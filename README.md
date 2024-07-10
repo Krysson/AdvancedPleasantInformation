@@ -41,7 +41,7 @@
 
 ###### LOG
 
-- 07/10/2024 - 13:41 - POST Lesson 36 "Fetching Dynamic Data" - created branch "pets-area" added dynamic data to main.js for pet data.
+- 07/10/2024 - 13:41 - POST Lesson 37 "Fetching Dynamic Data" - Turned Pet Card into a dynamic template.
   - push to github pages - no css was loading - changed <link rel="stylesheet" href="/styles.css" /> to delete the "/" - re-pushed to github @ 10:12
 - making sure all is well after codespaces trial
 
