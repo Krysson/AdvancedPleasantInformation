@@ -41,7 +41,7 @@
 
 ###### LOG
 
-- 07/10/2024 - 13:41 - POST Lesson 39 "Pet Fallback Images" - Added fallback images for when pets dont have one.
+- 07/10/2024 - 13:41 - **POST Lesson 40 "Active Button"** - Added made filter buttons active - will filter next.
   <br>
 
 ###### Older Logs
