@@ -41,8 +41,12 @@
 
 ###### LOG
 
-- 07/09/2024 - 18:12 - POST Lesson 35 "Emotional Challenge"
-  - push to github pages - no css was loading - changed <link rel="stylesheet" href="/styles.css" /> to delete the "/" - re-pushed to github @ 10:12
+- 07/10/2024 - 15:04 - **POST Lesson 41 "Actually filtering the Pet Cards"** - filtering on pet cards on home page finished
+  <br>
+
+###### Older Logs
+
+- push to github pages - no css was loading - changed <link rel="stylesheet" href="/styles.css" /> to delete the "/" - re-pushed to github @ 10:12
 - making sure all is well after codespaces trial
 
 ---
