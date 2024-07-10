@@ -41,7 +41,7 @@
 
 ###### LOG
 
-- 07/10/2024 - 13:41 - **POST Lesson 40 "Active Button"** - Added made filter buttons active - will filter next.
+- 07/10/2024 - 15:04 - **POST Lesson 41 "Actually filtering the Pet Cards"** - filtering on pet cards on home page finished
   <br>
 
 ###### Older Logs
