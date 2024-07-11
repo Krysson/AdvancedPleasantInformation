@@ -41,8 +41,9 @@
 
 ###### LOG
 
-- 07/10/2024 - 15:04 - **POST Lesson 41 "Actually filtering the Pet Cards"** - filtering on pet cards on home page finished
-- Merged Branch pets-area to main
+- 07/10/2024 - 15:04 - **POST Lesson 47 "Actually leveraging our Data URL"** - filtering on pet cards on home page finished
+- hosted on Netlify
+- connected to mongoDB
   <br>
 
 ###### Older Logs
